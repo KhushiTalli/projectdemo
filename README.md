@@ -1,4 +1,4 @@
 # projectdemo
 This is my first project
 <br>
-Author - Khushi
+Author - Khushi Talli
